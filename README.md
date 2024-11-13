@@ -16,5 +16,9 @@
        
 5. to run the ui, enter following command
     1. chainlit run ui.py
+       
 6. to launch the api server, enter following command
     1. python api.py
+  
+7. to run the evaluation, enter following command
+    1. python run_eval.py
