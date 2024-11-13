@@ -1,8 +1,8 @@
 # qp-ai-assessment
-Contextual Chat Bot
+# Contextual Chat Bot
 
 
-# RAG Based Chat Agent
+## RAG Based Chat Agent
 
 ### Installation
 1. clone this repo
