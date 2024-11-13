@@ -1,0 +1,27 @@
+python-dotenv
+pypdf
+pypdf2
+nltk
+pandas
+
+# langchain
+langchain
+langchain-openai
+langchain_community
+langchain_ollama
+langchain-chroma
+
+# vectorstore
+faiss-cpu
+
+# api
+fastapi
+
+# evaluation
+ragas
+
+langfuse
+
+# ui
+streamlit
+chainlit
